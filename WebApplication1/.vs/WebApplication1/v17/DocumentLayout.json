@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\views\\home\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\migrations\\20240720105835_f3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240720105835_f3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|c:\\users\\dark\\desktop\\.net\\login\\webapplication1\\webapplication1\\migrations\\20240719150218_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C669E4-F7C2-491D-ACE2-3B145749E430}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240719150218_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:47:06.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:39:24.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Views\\Home\\User.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\User.cshtml.cs",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Views\\Home\\User.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\User.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:33:03.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Views\\Home\\User.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\User.cshtml",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Views\\Home\\User.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\User.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:32:14.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:23:37.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:13:26.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:59:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:59:02.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:59:01.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:59:00.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240720105835_f3.cs",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Migrations\\20240720105835_f3.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240720105835_f3.cs",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Migrations\\20240720105835_f3.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240720105835_f3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:58:35.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAgwCUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:53:35.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240719150218_f.cs",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Migrations\\20240719150218_f.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240719150218_f.cs",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Migrations\\20240719150218_f.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240719150218_f.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:53:28.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DARK\\Desktop\\.net\\login\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:52:59.877Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1095,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
